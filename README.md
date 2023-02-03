@@ -3,6 +3,8 @@
 - 🔭 Currently working on my master thesis
 - 🌱 Quant Finance
 
+Github is mainly used for university projects, which are in private repositories.
+
 <!--
 **Ankru98/Ankru98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
