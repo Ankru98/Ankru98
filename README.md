@@ -15,9 +15,7 @@ Github is mainly used for university projects, which are in private repositories
 <br />
 
 
-### Website: 
-[Website antonkruse](https://ankru98.github.io/)
-
+### [Website](https://ankru98.github.io/) 
 
 
 <details>
