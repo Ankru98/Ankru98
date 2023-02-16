@@ -2,6 +2,7 @@
 
 - 🔭 Currently working on my master thesis
 - 🌱 Quant Finance
+- Python, R, SQL
 
 Github is mainly used for university projects, which are in private repositories.
 
